@@ -1,0 +1,36 @@
+/* @import url('"https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@300&display=swap" rel="stylesheet"'); */
+
+/* @font-face {  
+	font-family: 'Bebas Neue', sans-serif;
+	src: url(fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Inter', sans-serif;
+	src: url(fonts/Inter-Regular.ttf);
+} */
+
+/* @font-face {
+	font-family:'Poppins';
+	font-style: normal;
+} */
+	
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caprasimo&family=DM+Serif+Display&family=Inter:wght@400;700&family=Nunito+Sans:wght@300;400;600&family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,500;1,600&display=swap"" rel="stylesheet"');
+
+@font-face { /* Citation: lab */
+	font-family: 'Bebas Neue', sans-serif;
+	src: url(fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+	font-family: 'Inter', sans-serif;
+	src: url(fonts/Inter-Regular.ttf);
+}
+
+@font-face { /* Citation: lab */
+	font-family: 'Poppins', sans-serif;
+	src: url(fonts/Poppins/Poppins-Bold.ttf);
+}
+
+
